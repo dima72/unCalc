@@ -1,4 +1,4 @@
-# unCalc
+# unCalc - Universal Calculator
 ![image](https://github.com/Stikriz/unCalc/assets/138736040/de464e97-da2f-4e61-b09c-398e2e543256)
 
 Тексты не приглажены, а взяты как есть из проекта. Поэтому, возможно, Вам придется кое-что не нужное удалять от туда самостоятельно.
